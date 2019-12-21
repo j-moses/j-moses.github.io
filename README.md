@@ -1,2 +1,3 @@
 # j-moses.github.io
-my personal website
+My personal website.
+Thanks to templated.co @templatedco for the template: Visualize (used under CC Att. 3.0 licence) -Jonah
