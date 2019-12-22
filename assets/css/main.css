@@ -2623,7 +2623,7 @@
 
 		#footer:before {
 			content: '';
-			border-top: solid 1px rgba(255, 255, 255, 0.25);
+			
 			width: 10em;
 			display: block;
 			margin: 0 auto 3em auto;
