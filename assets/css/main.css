@@ -1462,6 +1462,7 @@
 	strong, b {
 		color: #ffffff;
 		font-weight: 200;
+		
 	}
 
 	em, i {
@@ -1889,10 +1890,10 @@
 
 			.icon.style2:before {
 				display: block;
-				width: 1.25em;
-				height: 1.25em;
-				line-height: 1.25em;
-				font-size: 3.35em;
+				width: 1em;
+				height: 1em;
+				line-height: 1em;
+				font-size: 4em;
 			}
 
 			.icon.style2:hover {
